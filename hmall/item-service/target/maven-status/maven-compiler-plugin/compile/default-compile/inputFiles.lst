@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\item-service\src\main\java\com\hmall\item\ItemApplication.java
 D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\item-service\src\main\java\com\hmall\item\domain\dto\ItemDTO.java
 D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\item-service\src\main\java\com\hmall\item\service\impl\ItemServiceImpl.java
@@ -7,3 +8,14 @@ D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\item-service\src\main\java\
 D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\item-service\src\main\java\com\hmall\item\domain\po\Item.java
 D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\item-service\src\main\java\com\hmall\item\domain\dto\OrderDetailDTO.java
 D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\item-service\src\main\java\com\hmall\item\domain\query\ItemPageQuery.java
+=======
+D:\javaworkspace\heimaMallLocal\hmall\item-service\src\main\java\com\hmall\item\service\impl\ItemServiceImpl.java
+D:\javaworkspace\heimaMallLocal\hmall\item-service\src\main\java\com\hmall\item\domain\dto\OrderDetailDTO.java
+D:\javaworkspace\heimaMallLocal\hmall\item-service\src\main\java\com\hmall\item\ItemApplication.java
+D:\javaworkspace\heimaMallLocal\hmall\item-service\src\main\java\com\hmall\item\domain\query\ItemPageQuery.java
+D:\javaworkspace\heimaMallLocal\hmall\item-service\src\main\java\com\hmall\item\domain\dto\ItemDTO.java
+D:\javaworkspace\heimaMallLocal\hmall\item-service\src\main\java\com\hmall\item\domain\po\Item.java
+D:\javaworkspace\heimaMallLocal\hmall\item-service\src\main\java\com\hmall\item\controller\ItemController.java
+D:\javaworkspace\heimaMallLocal\hmall\item-service\src\main\java\com\hmall\item\service\ItemService.java
+D:\javaworkspace\heimaMallLocal\hmall\item-service\src\main\java\com\hmall\item\mapper\ItemMapper.java
+>>>>>>> 9cd83c4a33c86dd7f1d1e0e802fdefcfb8ff2d05
