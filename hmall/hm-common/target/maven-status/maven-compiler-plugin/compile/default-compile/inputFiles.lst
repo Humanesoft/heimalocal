@@ -1,3 +1,23 @@
+<<<<<<< HEAD
+D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-common\src\main\java\com\hmall\common\utils\BeanUtils.java
+D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-common\src\main\java\com\hmall\common\config\MyBatisConfig.java
+D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-common\src\main\java\com\hmall\common\exception\ForbiddenException.java
+D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-common\src\main\java\com\hmall\common\exception\DbException.java
+D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-common\src\main\java\com\hmall\common\domain\PageDTO.java
+D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-common\src\main\java\com\hmall\common\exception\CommonException.java
+D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-common\src\main\java\com\hmall\common\utils\CollUtils.java
+D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-common\src\main\java\com\hmall\common\config\JsonConfig.java
+D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-common\src\main\java\com\hmall\common\domain\PageQuery.java
+D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-common\src\main\java\com\hmall\common\exception\BizIllegalException.java
+D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-common\src\main\java\com\hmall\common\exception\UnauthorizedException.java
+D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-common\src\main\java\com\hmall\common\utils\UserContext.java
+D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-common\src\main\java\com\hmall\common\advice\CommonExceptionAdvice.java
+D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-common\src\main\java\com\hmall\common\exception\BadRequestException.java
+D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-common\src\main\java\com\hmall\common\domain\R.java
+D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-common\src\main\java\com\hmall\common\utils\CookieBuilder.java
+D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-common\src\main\java\com\hmall\common\utils\WebUtils.java
+D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-common\src\main\java\com\hmall\common\utils\Convert.java
+=======
 D:\javaworkspace\heimaMallLocal\hmall\hm-common\src\main\java\com\hmall\common\utils\BeanUtils.java
 D:\javaworkspace\heimaMallLocal\hmall\hm-common\src\main\java\com\hmall\common\domain\R.java
 D:\javaworkspace\heimaMallLocal\hmall\hm-common\src\main\java\com\hmall\common\utils\CookieBuilder.java
@@ -16,3 +36,4 @@ D:\javaworkspace\heimaMallLocal\hmall\hm-common\src\main\java\com\hmall\common\c
 D:\javaworkspace\heimaMallLocal\hmall\hm-common\src\main\java\com\hmall\common\exception\BadRequestException.java
 D:\javaworkspace\heimaMallLocal\hmall\hm-common\src\main\java\com\hmall\common\domain\PageQuery.java
 D:\javaworkspace\heimaMallLocal\hmall\hm-common\src\main\java\com\hmall\common\domain\PageDTO.java
+>>>>>>> 9cd83c4a33c86dd7f1d1e0e802fdefcfb8ff2d05
