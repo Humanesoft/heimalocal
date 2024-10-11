@@ -1,0 +1,3 @@
+com\heima\api\dto\ItemDTO.class
+com\heima\api\config\DefaultFeignConfig.class
+com\heima\api\client\ItemClient.class
