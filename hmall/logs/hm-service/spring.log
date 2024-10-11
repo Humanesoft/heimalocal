@@ -1,5 +1,5 @@
-16:09:07:163  INFO 106908 --- [main] com.heima.user.UserServiceApplication    : Starting UserServiceApplication using Java 11.0.24 on LAPTOP-MN11L063 with PID 106908 (D:\javaworkspace\heimaMallLocal\hmall\user-service\target\classes started by 86152 in D:\javaworkspace\heimaMallLocal\hmall)
-16:09:07:173  INFO 106908 --- [main] com.heima.user.UserServiceApplication    : The following 1 profile is active: "local"
+16:09:07:163  INFO 106908 --- [main] com.hmall.user.UserServiceApplication    : Starting UserServiceApplication using Java 11.0.24 on LAPTOP-MN11L063 with PID 106908 (D:\javaworkspace\heimaMallLocal\hmall\user-service\target\classes started by 86152 in D:\javaworkspace\heimaMallLocal\hmall)
+16:09:07:173  INFO 106908 --- [main] com.hmall.user.UserServiceApplication    : The following 1 profile is active: "local"
 16:09:08:393  INFO 106908 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
 16:09:08:399  INFO 106908 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
 16:09:08:475  INFO 106908 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 15 ms. Found 0 Redis repository interfaces.
@@ -15,10 +15,10 @@
 16:09:09:557  INFO 106908 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2323 ms
 16:09:09:672  WARN 106908 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController' defined in file [D:\javaworkspace\heimaMallLocal\hmall\user-service\target\classes\com\heima\user\controller\UserController.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userServiceImpl' defined in file [D:\javaworkspace\heimaMallLocal\hmall\user-service\target\classes\com\heima\user\service\impl\UserServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.security.crypto.password.PasswordEncoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
 16:09:09:676  INFO 106908 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
-16:09:09:699  INFO 106908 --- [main] ConditionEvaluationReportLoggingListener : 
+16:09:09:699  INFO 106908 --- [main] ConditionEvaluationReportLoggingListener :
 
 Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
-16:09:09:719 ERROR 106908 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+16:09:09:719 ERROR 106908 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   :
 
 ***************************
 APPLICATION FAILED TO START
@@ -26,7 +26,7 @@ APPLICATION FAILED TO START
 
 Description:
 
-Parameter 0 of constructor in com.heima.user.service.impl.UserServiceImpl required a bean of type 'org.springframework.security.crypto.password.PasswordEncoder' that could not be found.
+Parameter 0 of constructor in impl.service.com.hmall.user.UserServiceImpl required a bean of type 'org.springframework.security.crypto.password.PasswordEncoder' that could not be found.
 
 
 Action:

@@ -42,7 +42,7 @@ knife4j:
         group-name: default
         api-rule: package
         api-rule-resources:
-          - com.heima.user.controller
+          - com.hmall.user.controller
 hm:
   jwt:
     location: classpath:hmall.jks
