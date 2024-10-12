@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/hmall.iml" filepath="$PROJECT_DIR$/.idea/hmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmall.iml" filepath="$PROJECT_DIR$/hmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay-service.iml" filepath="$PROJECT_DIR$/pay-service.iml" />
     </modules>
   </component>
 </project>

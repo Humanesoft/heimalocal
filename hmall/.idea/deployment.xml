@@ -2,17 +2,10 @@
 <project version="4">
   <component name="PublishConfigData" serverName="ubuntu">
     <serverData>
-      <paths name="ubuntu">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/usr/gzy" local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
       <paths name="ubuntu(项目级别)">
         <serverdata>
           <mappings>
-            <mapping deploy="/usr/gzy" local="$PROJECT_DIR$" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>

@@ -1,3 +1,8 @@
-D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-api\src\main\java\com\heima\api\config\DefaultFeignConfig.java
-D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-api\src\main\java\com\heima\api\dto\ItemDTO.java
-D:\JavaWorkprojects\heimalocal\heimalocal-main\hmall\hm-api\src\main\java\com\heima\api\client\ItemClient.java
+D:\javaworkspace\heimaMallLocal\hmall\hm-api\src\main\java\com\heima\api\config\DefaultFeignConfig.java
+D:\javaworkspace\heimaMallLocal\hmall\hm-api\src\main\java\com\heima\api\client\UserClient.java
+D:\javaworkspace\heimaMallLocal\hmall\hm-api\src\main\java\com\heima\api\dto\OrderDetailDTO.java
+D:\javaworkspace\heimaMallLocal\hmall\hm-api\src\main\java\com\heima\api\client\TradeClient.java
+D:\javaworkspace\heimaMallLocal\hmall\hm-api\src\main\java\com\heima\api\client\OrderClient.java
+D:\javaworkspace\heimaMallLocal\hmall\hm-api\src\main\java\com\heima\api\client\CartClient.java
+D:\javaworkspace\heimaMallLocal\hmall\hm-api\src\main\java\com\heima\api\client\ItemClient.java
+D:\javaworkspace\heimaMallLocal\hmall\hm-api\src\main\java\com\heima\api\dto\ItemDTO.java

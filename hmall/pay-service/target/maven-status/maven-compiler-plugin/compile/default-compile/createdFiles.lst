@@ -1,0 +1,4 @@
+com\hmall\pay\enums\PayStatus.class
+com\hmall\pay\enums\PayType.class
+com\hmall\pay\enums\UserStatus.class
+com\hmall\pay\enums\PayChannel.class
