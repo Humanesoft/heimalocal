@@ -1,7 +1,7 @@
-com\heima\api\dto\ItemDTO.class
-com\heima\api\client\TradeClient.class
-com\heima\api\dto\OrderDetailDTO.class
-com\heima\api\client\ItemClient.class
-com\heima\api\client\CartClient.class
-com\heima\api\client\UserClient.class
-com\heima\api\config\DefaultFeignConfig.class
+com\hmall\api\config\DefaultFeignConfig.class
+com\hmall\api\dto\ItemDTO.class
+com\hmall\api\dto\OrderDetailDTO.class
+com\hmall\api\client\ItemClient.class
+com\hmall\api\client\CartClient.class
+com\hmall\api\client\UserClient.class
+com\hmall\api\client\TradeClient.class

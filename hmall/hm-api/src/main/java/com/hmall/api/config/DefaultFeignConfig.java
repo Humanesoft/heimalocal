@@ -1,4 +1,4 @@
-package com.hmall.gate.api.config;
+package com.hmall.api.config;
 
 import feign.Logger;
 import org.springframework.cloud.openfeign.EnableFeignClients;

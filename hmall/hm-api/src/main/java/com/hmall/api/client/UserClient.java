@@ -1,4 +1,4 @@
-package com.hmall.gate.api.client;
+package com.hmall.api.client;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.PutMapping;

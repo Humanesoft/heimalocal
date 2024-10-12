@@ -2,12 +2,12 @@ package com.hmall.trade.service.impl;
 
 import cn.hutool.core.bean.BeanUtil;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.hmall.gate.api.client.CartClient;
-import com.hmall.gate.api.client.ItemClient;
-import com.hmall.gate.api.dto.ItemDTO;
+import com.hmall.api.client.CartClient;
+import com.hmall.api.client.ItemClient;
+import com.hmall.api.dto.ItemDTO;
 import com.hmall.common.exception.BadRequestException;
 import com.hmall.common.utils.UserContext;
-import com.hmall.gate.api.dto.OrderDetailDTO;
+import com.hmall.api.dto.OrderDetailDTO;
 import com.hmall.trade.domain.dto.OrderFormDTO;
 import com.hmall.trade.domain.po.Order;
 import com.hmall.trade.domain.po.OrderDetail;

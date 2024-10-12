@@ -3,8 +3,8 @@ package com.hmall.cart.service.impl;
 import cn.hutool.core.util.StrUtil;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.heima.api.client.ItemClient;
-import com.heima.api.dto.ItemDTO;
+import com.hmall.api.client.ItemClient;
+import com.hmall.api.dto.ItemDTO;
 import com.hmall.cart.domain.dto.CartFormDTO;
 import com.hmall.cart.domain.po.Cart;
 import com.hmall.cart.domain.vo.CartVO;
@@ -44,7 +44,7 @@ public class CartServiceImpl extends ServiceImpl<CartMapper, Cart> implements IC
     private final DiscoveryClient discoveryClient;
     @Override
     public void addItem2Cart(CartFormDTO cartFormDTO) {
-        // 1.获取登录用户
+        // 1.获取登录用户 TODO:保存到了一个服务器的session上了，可以考虑使用redis来做缓存。
         Long userId = UserContext.getUser();
 
         // 2.判断是否已经存在
@@ -67,7 +67,7 @@ public class CartServiceImpl extends ServiceImpl<CartMapper, Cart> implements IC
 
     @Override
     public List<CartVO> queryMyCarts() {
-        // 1.查询我的购物车列表 TODO 把商品写死了
+        // 1.查询我的购物车列表 TODO 把商品写死了,只有1号用户有购物车,所以暂时写死
         List<Cart> carts = lambdaQuery().eq(Cart::getUserId, 1L).list();
         if (CollUtils.isEmpty(carts)) {
             return CollUtils.emptyList();
