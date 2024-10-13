@@ -37,7 +37,8 @@ public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements IU
     private final JwtTool jwtTool;
 
     private final JwtProperties jwtProperties;
-
+//TODO：能否把登录模块的用户信息存储到redis中
+    //TODO: 缺少注册模块
     @Override
     public UserLoginVO login(LoginFormDTO loginDTO) {
         // 1.数据校验
