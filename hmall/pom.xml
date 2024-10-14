@@ -147,11 +147,6 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-openfeign-core</artifactId>
         </dependency>
-        <dependency>
-            <groupId>com.heima</groupId>
-            <artifactId>hm-api</artifactId>
-            <version>1.0.0</version>
-        </dependency>
     </dependencies>
 
 <!--    <build>-->
